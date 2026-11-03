@@ -2,6 +2,8 @@
 
 **2026 全国大学生嵌入式芯片与系统设计竞赛 · FPGA 创新设计赛道 · 紫光赛道赛题二**
 
+**团队名称**　圣光demons　｜　**团队编号**　40831
+
 基于紫光同创 **PG2L100H FPGA** 的实时图像处理系统：摄像头保持固定，通过硬件完成镜头畸变矫正、720P 虚拟水平转向与自适应 Gamma；ShowTime V15 上位机提供标定、参数管理和原图/矫正图对比显示。
 
 [技术报告 PDF](docs/实时畸变矫正与虚拟视角控制系统_技术报告.pdf) · [上位机下载](https://github.com/0mzh9/ShowTime-FPGA/releases/tag/v1.0-submission) · [FPGA 位流](firmware/) · [操作说明](上位机程序/说明文档/01_使用说明.md) · [测试指标说明](docs/measurements.md)
