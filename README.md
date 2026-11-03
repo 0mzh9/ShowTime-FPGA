@@ -45,7 +45,7 @@ py -3.13 -m venv .venv
 
 ## 便携程序与验证范围
 
-原包 EXE 超过 GitHub 普通仓库单文件限制，因此未放入源码仓库。便携程序 ZIP 已在本地整理，但因网络超时尚未上传附件；当前可按上文步骤运行源码或按源码构建说明生成 EXE。
+原包 EXE 超过 GitHub 普通仓库单文件限制，因此未放入源码仓库。配套便携程序 ZIP 已上传至 [Release 下载页面](https://github.com/0mzh9/ShowTime-FPGA/releases/tag/v1.0-submission)，内含原始 EXE、源码、使用说明和第三方许可证。下载 ZIP 后完整解压，运行 ShowTimeV15_Portable.exe；无需安装 Python。
 本仓库由 2026-11-03 解压的新工程整理，保留源代码，移除 FPGA 编译缓存。
 整理时检查了项目文件引用和 Python 语法；没有重新完成 FPGA 全流程编译或实板验证。reports 内为原包记录。
 
