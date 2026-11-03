@@ -4,7 +4,7 @@
 
 基于紫光同创 **PG2L100H FPGA** 的实时图像处理系统：摄像头保持固定，通过硬件完成镜头畸变矫正、720P 虚拟水平转向与自适应 Gamma；ShowTime V15 上位机提供标定、参数管理和原图/矫正图对比显示。
 
-[技术报告 PDF](docs/technical-report.pdf) · [上位机下载](https://github.com/0mzh9/ShowTime-FPGA/releases/tag/v1.0-submission) · [FPGA 位流](firmware/) · [操作说明](上位机程序/说明文档/01_使用说明.md) · [测试指标说明](docs/measurements.md)
+[技术报告 PDF](docs/实时畸变矫正与虚拟视角控制系统_技术报告.pdf) · [上位机下载](https://github.com/0mzh9/ShowTime-FPGA/releases/tag/v1.0-submission) · [FPGA 位流](firmware/) · [操作说明](上位机程序/说明文档/01_使用说明.md) · [测试指标说明](docs/measurements.md)
 
 ## 实物展示
 
@@ -112,7 +112,7 @@ ShowTime-FPGA/
 ├─ reports/            原工程时序摘要与多种子记录
 ├─ docs/
 │  ├─ images/          技术报告中的实物与效果图
-│  ├─ technical-report.pdf
+│  ├─ 实时畸变矫正与虚拟视角控制系统_技术报告.pdf
 │  ├─ gallery.md       标定与 Gamma 展示
 │  └─ measurements.md  测试条件与指标解释
 └─ README.md

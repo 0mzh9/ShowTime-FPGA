@@ -1,6 +1,6 @@
 # 标定与 Gamma 展示
 
-[返回首页](../README.md) · [技术报告](technical-report.pdf)
+[返回首页](../README.md) · [技术报告](实时畸变矫正与虚拟视角控制系统_技术报告.pdf)
 
 ## 自动标定
 
