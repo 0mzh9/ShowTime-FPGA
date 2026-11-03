@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ip_inst>
+    <header>
+        <vendor>Pango</vendor>
+        <id>06200702</id>
+        <display_name>Dvio_Jtag_Hub</display_name>
+        <name>Dvio_Jtag_Hub</name>
+        <version>1.0</version>
+        <instance>perf_jtag_hub</instance>
+        <family>Logos2</family>
+        <device>PG2L100H</device>
+        <package>FBG676</package>
+        <speedgrade>-6</speedgrade>
+        <generator version="2022.2-SP6.4" build="146967">IP Compiler</generator>
+    </header>
+    <param_list>
+    <param>
+      <name>CTRL_PORT_NUM</name>
+      <value>1</value>
+    </param>
+    <param>
+      <name>UJTAG_SEL</name>
+      <value>0</value>
+    </param>
+    <param>
+      <name>UJTAG_SEL_TEXT</name>
+      <value>Default JTAG</value>
+    </param>
+    <param>
+      <name>PGT_DEVICE_30G</name>
+      <value>false</value>
+    </param>
+    <param>
+      <name>PGT_DEVICE</name>
+      <value>false</value>
+    </param>
+    <param>
+      <name>PGL_DEVICE</name>
+      <value>false</value>
+    </param>
+  </param_list>
+    <file_list>
+        <output>
+            <file pathname="generate.log" format="log" description="Generate Log"/>
+            <file pathname="perf_jtag_hub_tmpl.v" format="verilog" description="Instantiation Template"/>
+            <file pathname="perf_jtag_hub_tmpl.vhdl" format="vhdl" description="Instantiation Template"/>
+        </output>
+        <source>
+            <file pathname="rtl/ips_dvio_jtag_hub_v1_0.v"/>
+            <file pathname="perf_jtag_hub.v"/>
+        </source>
+    </file_list>
+</ip_inst>

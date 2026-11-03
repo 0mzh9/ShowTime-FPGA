@@ -1,0 +1,13 @@
+{
+  "python": "3.13.12 (tags/v3.13.12:1cbe481, Feb  3 2026, 18:22:25) [MSC v.1944 64 bit (AMD64)]",
+  "packages": {
+    "PySide6": "6.11.2",
+    "PySide6_Essentials": "6.11.2",
+    "PySide6_Addons": "6.11.2",
+    "shiboken6": "6.11.2",
+    "numpy": "2.5.2",
+    "opencv-python-headless": "4.13.0.92",
+    "PyInstaller": "6.22.2"
+  },
+  "recorded_utc": "2026-10-26T07:42:58.570119+00:00"
+}

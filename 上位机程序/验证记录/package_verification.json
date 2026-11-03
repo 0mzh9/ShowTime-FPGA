@@ -1,0 +1,137 @@
+{
+  "version": "ShowTime V15",
+  "verified_local_time": "2026-11-02T12:28:27.919390+08:00",
+  "original_preserved": true,
+  "original_files_hash_checked": 96,
+  "executable_byte_identical": true,
+  "executable_sha256": "3ae2d4e3d266fa8fbf88fdc1fb984dfef85477dfaac181243d16a2bbb11183c0",
+  "dependency_closure": "PASS",
+  "python_syntax": "PASS",
+  "source_equivalence": [
+    {
+      "file": "board_status.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "bootstrap_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "calibration_dialog_base.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "calibration_dialog_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "calibration_engine_base.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "calibration_engine_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "calibration_math.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "calibration_protocol.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "calibration_ui_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "calibration_upload.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "calibration_validation_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "capture_devices.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "video_control.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "device_connection_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "frame_diagnostics.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "frame_type_protocol.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "hardware_check_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "pan_control_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "pan_math_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "video_pipeline.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "video_protocol.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "selftest_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "session_control.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    },
+    {
+      "file": "viewer_v15.py",
+      "logic_unchanged": true,
+      "syntax_passed": true
+    }
+  ],
+  "source_selftest": "PASS",
+  "executable_selftest": "PASS",
+  "hardware_test_performed": false,
+  "rebuild_performed": false,
+  "python_files": 25
+}

@@ -1,0 +1,2 @@
+# The generated module-local constraints were not scoped by this PDS flow.
+# Clock is constrained at native scan-chain TCK_USER in the main FDC.

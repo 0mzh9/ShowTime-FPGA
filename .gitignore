@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/
+FPGA_code/compile/
+FPGA_code/synthesize/
+FPGA_code/device_map/*
+!FPGA_code/device_map/*.pcf
+FPGA_code/place_route/
+FPGA_code/report_timing/
+FPGA_code/constraint_check/
+FPGA_code/generate_bitstream/
+FPGA_code/logbackup/
+*.log

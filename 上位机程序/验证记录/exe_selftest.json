@@ -1,0 +1,12 @@
+{
+  "version": "V15",
+  "passed": true,
+  "checks": {
+    "calibration_protocol": true,
+    "pan_protocol": true,
+    "gui_offline_gate": true,
+    "manual_editor": true,
+    "opencv": "4.13.0",
+    "numpy": "2.5.2"
+  }
+}
